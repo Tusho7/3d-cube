@@ -15,7 +15,7 @@
 ### Tech Stack
 
 - <img src="public/react.png" width="25" style="top: 8px" /> _React @ 18.0.37 - front-end framework_
-- <img src="public/tailwiwind.png" width="25" style="top: 8px" />_Tailwind @3.3.2 - CSS framework_
+- <img src="public/tailwind.png" width="25" style="top: 8px" />_Tailwind @3.3.2 - CSS framework_
 
 #
 
